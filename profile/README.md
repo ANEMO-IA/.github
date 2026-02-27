@@ -1,7 +1,7 @@
 <div align="center">
 
-# 👽 ANEMO-ΙΑ 👽
+# 👽 NIRVALIEN 👽
 
 AI Software Development
 
-![Visitor Count](https://counter.seku.su/cmoe?name=Anemoia&theme=r34)
+![Visitor Count](https://counter.seku.su/cmoe?name=Nirvalien&theme=r34)
