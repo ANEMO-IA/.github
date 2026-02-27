@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👽 NIRVALIEN 👽
+# 👽 NIRVANALIEN 👽
 
 AI Software Development
 
