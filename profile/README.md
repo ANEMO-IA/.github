@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏛️ ANEMO-ΙΑ 🏛️
+# 👽 ANEMO-ΙΑ 👽
 
 AI Software Development
 
